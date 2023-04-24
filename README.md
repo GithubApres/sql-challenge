@@ -1,11 +1,11 @@
 # sql-challenge
-For this challenge , there are 6 CSV files that contain employee records for a fictional company
-1  departments.csv
-2  dept_emp.csv
-3  dept_manager.csv
-4  employees.csv
-5  salaries.csv
-6  titles.csv
+For this challenge , there are 6 CSV files that contain employee records for a fictional company :
+1  departments.csv , 
+2  dept_emp.csv , 
+3  dept_manager.csv , 
+4  employees.csv , 
+5  salaries.csv , 
+6  titles.csv . 
 
 DATA MODELING
 The CSV files were evaluated and an Entity Relationship Diagram of the tables was provided with QuickDBD . 
