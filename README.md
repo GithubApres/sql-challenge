@@ -19,3 +19,5 @@ each matching SQL table using pgAdmin .
 DATA ANALYSIS
 There are 8 questions to evaluate and create SQL queries . Submitted is an .sql file that contains each of the
 questions as an SQL query . 
+
+Alessia Presotto
