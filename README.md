@@ -20,4 +20,7 @@ DATA ANALYSIS
 There are 8 questions to evaluate and create SQL queries . Submitted is an .sql file that contains each of the
 questions as an SQL query . 
 
+I was able to speak with a TA through Calendly and we discussed the approach to this assignment and  it was helpful
+to understand the process and criteria of the module .
+
 Alessia Presotto
